@@ -6,7 +6,7 @@
 #### [Flood-Fill](https://github.com/mohitsingla123/Computer-Graphics/blob/master/Flood_fill.cpp)
 #### [Sutherland_hodgeman](https://github.com/mohitsingla123/Computer-Graphics/blob/master/Sutherland_hodgeman.cpp)
 #### [Boundary Fill](https://github.com/mohitsingla123/Computer-Graphics/blob/master/boundary_fill.c)
-**Bresenham**<br/>
+#### [Bresenham](https://github.com/mohitsingla123/Computer-Graphics/blob/master/bresenham.c)
 **Cohen Sutherland**<br/>
 **DDA Line**<br/>
 **Ellipse**<br/>
