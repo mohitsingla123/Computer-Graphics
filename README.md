@@ -5,8 +5,7 @@
 #### [2D-Transformation](https://github.com/mohitsingla123/Computer-Graphics/blob/master/2d_transform.cpp)
 #### [Flood-Fill](https://github.com/mohitsingla123/Computer-Graphics/blob/master/Flood_fill.cpp)
 #### [Sutherland_hodgeman](https://github.com/mohitsingla123/Computer-Graphics/blob/master/Sutherland_hodgeman.cpp)
-
-**Boundary Fill**<br/>
+#### [Boundary Fill](https://github.com/mohitsingla123/Computer-Graphics/blob/master/boundary_fill.c)
 **Bresenham**<br/>
 **Cohen Sutherland**<br/>
 **DDA Line**<br/>
