@@ -7,7 +7,8 @@
 #### [Sutherland_hodgeman](https://github.com/mohitsingla123/Computer-Graphics/blob/master/Sutherland_hodgeman.cpp)
 #### [Boundary Fill](https://github.com/mohitsingla123/Computer-Graphics/blob/master/boundary_fill.c)
 #### [Bresenham](https://github.com/mohitsingla123/Computer-Graphics/blob/master/bresenham.c)
-**Cohen Sutherland**<br/>
+#### [Cohen Sutherland](https://github.com/mohitsingla123/Computer-Graphics/blob/master/cohen_sutherland.cpp)
+
 **DDA Line**<br/>
 **Ellipse**<br/>
 **Mid-Point Circle**<br/>
