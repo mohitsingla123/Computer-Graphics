@@ -9,8 +9,8 @@
 #### [Bresenham](https://github.com/mohitsingla123/Computer-Graphics/blob/master/bresenham.c)
 #### [Cohen Sutherland](https://github.com/mohitsingla123/Computer-Graphics/blob/master/cohen_sutherland.cpp)
 #### [DDA Line](https://github.com/mohitsingla123/Computer-Graphics/blob/master/dda.c)
+#### [Ellipse](https://github.com/mohitsingla123/Computer-Graphics/blob/master/ellipse.c)
 
-**Ellipse**<br/>
 **Mid-Point Circle**<br/>
 **Mouse Movement Pixel Detectation**<br/>
 **White rectangle with Red Diagonal Stripes**<br/>
