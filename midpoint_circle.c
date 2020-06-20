@@ -1,3 +1,4 @@
+// Mid point circle code in CG(Computer Graphics) In C 
 #include<GL/glut.h>
 #include <stdio.h>
 #include <math.h>
@@ -60,4 +61,4 @@ void main(int argc, char **argv)
  Init();
  glutDisplayFunc(Circle);
  glutMainLoop();
-}
+}
