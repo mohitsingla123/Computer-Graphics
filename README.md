@@ -11,7 +11,7 @@
 #### [DDA Line](https://github.com/mohitsingla123/Computer-Graphics/blob/master/dda.c)
 #### [Ellipse](https://github.com/mohitsingla123/Computer-Graphics/blob/master/ellipse.c)
 #### [Mid-Point Circle](https://github.com/mohitsingla123/Computer-Graphics/blob/master/midpoint_circle.c)
+#### [Mouse Movement Pixel Detectation]
 
-**Mouse Movement Pixel Detectation**<br/>
 **White rectangle with Red Diagonal Stripes**<br/>
 **Polygon Scaling**<br/>
