@@ -1,3 +1,4 @@
+// As we move pointer of mouse on screen it will infom the pixels of that point of screen.
 #include<GL/glut.h>
 #include<stdio.h>
 #include<string.h>
