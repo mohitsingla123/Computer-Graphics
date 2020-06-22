@@ -1,4 +1,4 @@
-
+//white rectangle with red diagonal stripes, with background color blue
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>
