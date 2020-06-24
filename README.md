@@ -14,4 +14,4 @@
 #### [Mouse Movement Pixel Detectation](https://github.com/mohitsingla123/Computer-Graphics/blob/master/mousemove.cpp)
 #### [White rectangle with Red Diagonal Stripes](https://github.com/mohitsingla123/Computer-Graphics/blob/master/output2.c)
 
-**Polygon Scaling**<br/>
+#### [Polygon Scaling]
