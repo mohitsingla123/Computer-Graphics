@@ -13,5 +13,4 @@
 #### [Mid-Point Circle](https://github.com/mohitsingla123/Computer-Graphics/blob/master/midpoint_circle.c)
 #### [Mouse Movement Pixel Detectation](https://github.com/mohitsingla123/Computer-Graphics/blob/master/mousemove.cpp)
 #### [White rectangle with Red Diagonal Stripes](https://github.com/mohitsingla123/Computer-Graphics/blob/master/output2.c)
-
-#### [Polygon Scaling]
+#### [Polygon Scaling](https://github.com/mohitsingla123/Computer-Graphics/blob/master/polygone_scaling.cpp)
