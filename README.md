@@ -1,6 +1,6 @@
 # Computer-Graphics
 
-### Computer Graphics OpenGL Code
+### Computer Graphics C,C++ Code Using OpenGL.
 
 #### [2D-Transformation](https://github.com/mohitsingla123/Computer-Graphics/blob/master/2d_transform.cpp)
 #### [Flood-Fill](https://github.com/mohitsingla123/Computer-Graphics/blob/master/Flood_fill.cpp)
